@@ -200,7 +200,13 @@ const symbols = [
         displayName: 'Form Elements',
         description: 'Form elements structures user inputs with labels, controls, and consistent spacing.',
         section: 'forms'
-    },    
+    },        
+    {
+        symbol: 'form-layout',
+        displayName: 'Form Layout',
+        description: 'Form Laout offers structured classes for creating accessible, consistent, and responsive form layouts.',
+        section: 'forms'
+    },   
     {
         symbol: 'range-slider',
         displayName: 'Range Slider',
