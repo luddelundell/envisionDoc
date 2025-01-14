@@ -62,6 +62,12 @@ const symbols = [
         displayName: 'Feed',
         description: 'The Feed component is used to present user activity chronologically.',
         section: 'components'
+    },    
+    {
+        symbol: 'icons',
+        displayName: 'Icons',
+        description: 'The Icon component simplifies icon integration with customizable styles.',
+        section: 'components'
     },
     {
         symbol: 'image-viewer',
