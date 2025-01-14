@@ -481,14 +481,3 @@
       </symbol>
   </defs>
 </svg>
-
-<!-- 
-#596157 => style="fill:var(--doc-icon-element-01)"
-#B5C8B7 => style="fill:var(--doc-icon-element-01-text)"
-#7E917C => style="fill:var(--doc-icon-element-02-text)"
-#737373 => style="fill:var(--doc-icon-text-01)"
-#708770 => style="fill:var(--doc-icon-text-02)"
- #fbfefc => style="fill:var(--doc-icon-card-surface)"
- #ADC2B3 => style="fill:var(--doc-icon-element-02)"
- style="fill:var(--doc-icon-element-02-text)"
- -->
